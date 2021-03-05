@@ -9,6 +9,7 @@ import os, os.path
 import math
 import pygal
 
+# Import PyQt5 's dependencies for result window
 from PyQt5 import QtWidgets
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar
